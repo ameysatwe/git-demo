@@ -1,6 +1,6 @@
-# session_1
+# clima_axact
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 

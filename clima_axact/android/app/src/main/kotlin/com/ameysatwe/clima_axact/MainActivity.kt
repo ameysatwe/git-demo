@@ -1,4 +1,4 @@
-package com.example.session_1
+package com.ameysatwe.clima_axact
 
 import io.flutter.embedding.android.FlutterActivity
 
